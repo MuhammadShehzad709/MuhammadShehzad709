@@ -73,7 +73,7 @@ Full-featured eCommerce app with shopping cart, order management, and secure che
 
 Desktop app for managing medicine inventory, sales billing, supplier management, and report printing.
 
-🔗 [View Repo](https://github.com/MuhammadShehzad709/Medical-Store)
+🔗 [View Repo](https://github.com/MuhammadShehzad709/Medical_Store/tree/master)
 
 ---
 
