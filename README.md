@@ -1,8 +1,8 @@
 # Hi, I'm Muhammad Shehzad 👋
 
-### Full Stack .NET Developer from Pakistan 🇵🇰
+### Full Stack .NET Developer
 
-I build complete web and desktop solutions using **C# / ASP.NET Core** on the backend and **Angular / Blazor** on the frontend. 2 years of hands-on experience delivering real-world projects — including a remote internship at Future Excel.
+I build complete web and desktop solutions using **C# / ASP.NET Core** on the backend and **Angular / React / Blazor** on the frontend. 2 years of hands-on experience delivering real-world projects — including a remote internship at Future Excel.
 
 ---
 
@@ -19,6 +19,7 @@ I build complete web and desktop solutions using **C# / ASP.NET Core** on the ba
 
 **Frontend**
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -38,10 +39,17 @@ I build complete web and desktop solutions using **C# / ASP.NET Core** on the ba
 
 ---
 
+## 🏗️ Architecture
+
+- **Clean Architecture** — Separation of concerns with Domain, Application, Infrastructure, and Presentation layers
+- **Vertical Slice Architecture** — Feature-based organization with CQRS + MediatR for scalable and maintainable APIs
+
+---
+
 ## 🚀 What I Build
 
 - 🔗 **REST APIs** — Clean, secure, well-documented APIs with JWT auth
-- 🌐 **Full Stack Web Apps** — Angular or Blazor frontend + ASP.NET Core backend
+- 🌐 **Full Stack Web Apps** — Angular / React / Blazor frontend + ASP.NET Core backend
 - 💻 **Desktop Applications** — Windows apps with WPF / WinForms
 - ⚡ **Real-time Features** — Live chat and notifications using SignalR
 - 🗄️ **Database Design** — SQL Server & PostgreSQL with Entity Framework Core
@@ -49,6 +57,15 @@ I build complete web and desktop solutions using **C# / ASP.NET Core** on the ba
 ---
 
 ## 📌 Featured Projects
+
+### ⚖️ LTS — Litigation Tracking System
+> ASP.NET Core + React | Multi-Tenant SaaS | CQRS / MediatR | JWT Auth + Refresh Tokens | SQL Server | Hangfire | Cloudinary
+
+A production-grade multi-tenant SaaS platform built for law firms. Features full authentication flow, case & hearing management, document storage, scheduled email alerts, and a clean React frontend with TanStack Query.
+
+🔗 [Backend](https://github.com/fayaz921/LTS-API) · [Frontend](https://github.com/fayaz921/LTS-Client)
+
+---
 
 ### 💘 DatingApp — Full Stack Dating Platform
 > Angular + ASP.NET Core | JWT Auth | SignalR Real-time Chat | SQL Server
@@ -64,16 +81,16 @@ A complete dating platform built solo — user profiles, real-time messaging, ma
 
 Full-featured eCommerce app with shopping cart, order management, and secure checkout. Built as full stack member in a team.
 
-🔗 [View Repo](https://github.com/Asim-AKM/Netrex_ECommerce)
+🔗 [Backend](https://github.com/Asim-AKM/Netrex_ECommerce) · [Frontend](https://github.com/Asim-AKM/Netrex_ECommerce_Frontend)
 
 ---
 
-### 💊 Medical Store Management System — WinForms
-> C# + WinForms | SQL Server | Desktop Application
+### 🏫 School Management System — WinForms
+> C# + WinForms | SQL Server | ADO.NET | 3-Tier Architecture
 
-Desktop app for managing medicine inventory, sales billing, supplier management, and report printing.
+Desktop app for managing school operations — students, teachers, classes, admissions, fee tracking, role-based user management, and audit logging.
 
-🔗 [View Repo](https://github.com/MuhammadShehzad709/Medical_Store/tree/master)
+🔗 [View Repo](https://github.com/MuhammadShehzad709/School-Managment-system-)
 
 ---
 
