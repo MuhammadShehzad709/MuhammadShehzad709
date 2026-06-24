@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Muhammad%20Shehzad&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Full-Stack%20.NET%20Developer%20%26%20Tech%20Lead&amp;descAlignY=55&amp;descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Shehzad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20.NET%20Developer%20%26%20Tech%20Lead&descAlignY=55&descSize=18" />
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=ASP.NET+Core+%7C+Angular+%7C+React+%7C+Blazor;Clean+Architecture+%7C+CQRS+%7C+MediatR;Building+SaaS+Platforms+%26+Web+APIs;Tech+Lead+%40+LTS+%F0%9F%8F%86+AWS+DevArena+2026+Winner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ASP.NET+Core+%7C+Angular+%7C+React+%7C+Blazor;Clean+Architecture+%7C+CQRS+%7C+MediatR;Building+SaaS+Platforms+%26+Web+APIs;Tech+Lead+%40+LTS+%F0%9F%8F%86+AWS+DevArena+2026+Winner)](https://git.io/typing-svg)
 
 </div>
 
@@ -31,7 +31,7 @@ var shehzad = new Developer
     Name        = "Muhammad Shehzad",
     Location    = "Islamabad, Pakistan",
     CurrentRole = new[] {
-        "Full-Stack .NET Developer &amp; Tech Lead @ Netrix Solutions",
+        "Full-Stack .NET Developer & Tech Lead @ Netrix Solutions",
         "AWS DevArena 2026 Winner 🏆"
     },
     Education    = "BS Computer Science — Gomal University (CGPA 3.9/4.0)",
@@ -142,7 +142,7 @@ Pursuing a degree in Computer Science with a strong focus on software engineerin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 - 🧩 5 modules: User · Payment · Cart · Product · Seller
-- 💳 Owned **Payment &amp; Payout** + **User Management** end-to-end
+- 💳 Owned **Payment & Payout** + **User Management** end-to-end
 - 🏛️ Clean Architecture · JWT · FluentValidation · Serilog
 - 🗄️ PostgreSQL on **Render** · Cloudinary integration
 
@@ -204,7 +204,7 @@ Pursuing a degree in Computer Science with a strong focus on software engineerin
 ![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-### Databases &amp; Tools
+### Databases & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge)
@@ -212,7 +212,7 @@ Pursuing a degree in Computer Science with a strong focus on software engineerin
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-### Architecture &amp; Practices
+### Architecture & Practices
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge)
 ![CQRS](https://img.shields.io/badge/CQRS-2C3E50?style=for-the-badge)
 ![Vertical Slice](https://img.shields.io/badge/Vertical_Slice-2C3E50?style=for-the-badge)
@@ -278,6 +278,6 @@ Pursuing a degree in Computer Science with a strong focus on software engineerin
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-<sub>⭐ From <a href="https://github.com/MuhammadShehzad709">Muhammad Shehzad</a> — Built with passion for .NET &amp; Clean Code</sub>
+<sub>⭐ From <a href="https://github.com/MuhammadShehzad709">Muhammad Shehzad</a> — Built with passion for .NET & Clean Code</sub>
 
 </div>
