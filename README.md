@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Muhammad+Shehzad+%7C+Full-Stack+.NET+Developer)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=ASP.NET+Core+%7C+Angular+%7C+React+%7C+Blazor+%7C+CQRS+%7C+Clean+Architecture;Tech+Lead+%40+Netrix+Solutions+%7C+AWS+DevArena+2026+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=ASP.NET+Core+%7C+Angular+%7C+React+%7C+Blazor+%7C+CQRS+%7C+Clean+Architecture;Tech+Lead+%40+Netrix+Solutions+%7C+AWS+DevArena+2026+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
 
 <br/>
 
