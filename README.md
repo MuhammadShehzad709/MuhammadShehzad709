@@ -1,23 +1,20 @@
 <div align="center">
 
-![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=120&lines=Muhammad+Shehzad)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=80&lines=Muhammad+Shehzad+%7C+Full-Stack+.NET+Developer)](https://git.io/typing-svg)
 
-![Subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=ADBAC7&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+.NET+Developer+%26+Tech+Lead)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=8B949E&center=true&vCenter=true&width=700&height=50&lines=ASP.NET+Core+%7C+Angular+%7C+React+%7C+Blazor+%7C+CQRS+%7C+Clean+Architecture;Tech+Lead+%40+Netrix+Solutions+%7C+AWS+DevArena+2026+Winner+%F0%9F%8F%86)](https://git.io/typing-svg)
 
-</div>
+<br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=ASP.NET+Core+%7C+Angular+%7C+React+%7C+Blazor;Clean+Architecture+%7C+CQRS+%7C+MediatR;Building+SaaS+Platforms+%26+Web+APIs;Tech+Lead+%40+LTS+%F0%9F%8F%86+AWS+DevArena+2026+Winner)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=MuhammadShehzad709&label=Profile+Views&color=58a6ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/MuhammadShehzad709?label=Followers&style=for-the-badge&color=58a6ff" />
-<a href="https://www.linkedin.com/in/muhammed-shehzad-420654334"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:muhammadshehzaddeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ea4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=MuhammadShehzad709&label=Profile+Views&color=0d1117&style=flat-square" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/MuhammadShehzad709?label=Followers&style=flat-square&color=0d1117" />
+&nbsp;
+<a href="https://www.linkedin.com/in/muhammed-shehzad-420654334"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:muhammadshehzaddeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://github.com/MuhammadShehzad709"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -178,47 +175,47 @@ Pursuing a degree in Computer Science with a strong focus on software engineerin
 <div align="center">
 
 ### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Backend
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Hangfire](https://img.shields.io/badge/Hangfire-2C3E50?style=for-the-badge)
-![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=for-the-badge)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Hangfire](https://img.shields.io/badge/Hangfire-2C3E50?style=flat-square)
+![SignalR](https://img.shields.io/badge/SignalR-0078D4?style=flat-square)
 
 ### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat-square&logo=blazor&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Desktop
-![WPF](https://img.shields.io/badge/WPF-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-0078D4?style=flat-square&logo=windows&logoColor=white)
 
 ### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
 ### Architecture & Practices
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2C3E50?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/CQRS-2C3E50?style=for-the-badge)
-![Vertical Slice](https://img.shields.io/badge/Vertical_Slice-2C3E50?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile/Scrum-2C3E50?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0d1117?style=flat-square)
+![CQRS](https://img.shields.io/badge/CQRS-0d1117?style=flat-square)
+![Vertical Slice](https://img.shields.io/badge/Vertical_Slice-0d1117?style=flat-square)
+![Agile](https://img.shields.io/badge/Agile/Scrum-0d1117?style=flat-square)
 
 </div>
 
@@ -237,14 +234,15 @@ Pursuing a degree in Computer Science with a strong focus on software engineerin
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MuhammadShehzad709&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180"/>
-<img src="https://github-readme-stats-salesp07.vercel.app/api?username=MuhammadShehzad709&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=58a6ff&title_color=58a6ff&count_private=true" height="180"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=MuhammadShehzad709&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=MuhammadShehzad709&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=58a6ff&title_color=58a6ff&count_private=true" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MuhammadShehzad709&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&langs_count=8" height="180"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=MuhammadShehzad709&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58a6ff&langs_count=8" height="150"/>
 
 </div>
 
@@ -265,13 +263,15 @@ Pursuing a degree in Computer Science with a strong focus on software engineerin
 <div align="center">
 
 <a href="https://www.linkedin.com/in/muhammed-shehzad-420654334">
-  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Shehzad-0a66c2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Muhammad_Shehzad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;
 <a href="mailto:muhammadshehzaddeveloper@gmail.com">
-  <img src="https://img.shields.io/badge/Email-muhammadshehzaddeveloper@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-muhammadshehzaddeveloper@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
 </a>
+&nbsp;
 <a href="https://github.com/MuhammadShehzad709">
-  <img src="https://img.shields.io/badge/GitHub-MuhammadShehzad709-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-MuhammadShehzad709-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
