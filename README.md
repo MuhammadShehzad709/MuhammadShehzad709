@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Shehzad&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20.NET%20Developer%20%26%20Tech%20Lead&descAlignY=55&descSize=18" />
+![Header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=120&lines=Muhammad+Shehzad)
+
+![Subtitle](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=ADBAC7&center=true&vCenter=true&width=700&height=60&lines=Full-Stack+.NET+Developer+%26+Tech+Lead)
 
 </div>
 
@@ -51,7 +53,7 @@ var shehzad = new Developer
 <td width="50%">
 
 ### 🔵 Netrix Solutions
-**Full-Stack .NET Developer &amp; Tech Lead**
+**Full-Stack .NET Developer & Tech Lead**
 `Jan 2024 – Present` | Islamabad, Pakistan
 
 Led architecture and development of **LTS** — a live multi-tenant SaaS platform for law firms. Built Vertical Slice + CQRS backend, complete auth flow with refresh token rotation, Cloudinary file storage, Hangfire email scheduling, and **React** frontend with TanStack Query. **Won AWS DevArena 2026 🏆**
@@ -274,10 +276,8 @@ Pursuing a degree in Computer Science with a strong focus on software engineerin
 
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-
 <sub>⭐ From <a href="https://github.com/MuhammadShehzad709">Muhammad Shehzad</a> — Built with passion for .NET & Clean Code</sub>
-
 </div>
