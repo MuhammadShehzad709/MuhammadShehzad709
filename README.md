@@ -110,7 +110,7 @@ Pursuing a degree in Computer Science with a strong focus on software engineerin
 - ⚙️ MediatR · Hangfire · FluentValidation · Serilog · MailKit
 - 🗄️ PostgreSQL on **Neon** · Cloudinary for documents
 
-[🔗 Backend](https://github.com/fayaz921/LTS-API) · [🔗 Frontend](https://github.com/fayaz921/LTS-Client)
+[🔗 Backend](https://github.com/MuhammadShehzad709/LTS-API) · [🔗 Frontend](https://github.com/MuhammadShehzad709/LTS-Client)
 
 </td>
 <td width="50%">
